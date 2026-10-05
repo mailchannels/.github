@@ -25,6 +25,10 @@ The agent repositories include installation instructions and guidance for evalua
 
 Use the [MailChannels integration on Zapier](https://zapier.com/apps/mailchannels/integrations) to send transactional email from other applications. Published templates include [Google Forms confirmations](https://zapier.com/apps/google-forms/integrations/mailchannels/255731698/send-mailchannels-confirmation-emails-for-new-google-forms-responses) and [Stripe subscription welcome emails](https://zapier.com/apps/mailchannels/integrations/stripe/255731696/send-welcome-emails-through-mailchannels-for-new-stripe-subscriptions).
 
+## Hosting providers
+
+[MailChannels Email API for WHMCS](https://docs.mailchannels.com/plugins/whmcs/overview) lets hosting providers sell Email API sub-accounts from their WHMCS stores. WHMCS handles billing while the plugin provisions sub-accounts, send limits, and API or SMTP credentials. See the [installation guide](https://docs.mailchannels.com/plugins/whmcs/installation) and [official source](https://bitbucket.org/mailchannels/mailchannels-email-api-whmcs-plugin).
+
 ## Get started and get help
 
 - [Create an account](https://dash.mailchannels.com)
