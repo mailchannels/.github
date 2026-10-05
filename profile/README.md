@@ -21,6 +21,10 @@ The official SDK source repositories are hosted on Bitbucket. Use their README f
 
 The agent repositories include installation instructions and guidance for evaluating, implementing and operating Email API applications.
 
+## Workflow automation
+
+Use the [MailChannels integration on Zapier](https://zapier.com/apps/mailchannels/integrations) to send transactional email from other applications. Published templates include [Google Forms confirmations](https://zapier.com/apps/google-forms/integrations/mailchannels/255731698/send-mailchannels-confirmation-emails-for-new-google-forms-responses) and [Stripe subscription welcome emails](https://zapier.com/apps/mailchannels/integrations/stripe/255731696/send-welcome-emails-through-mailchannels-for-new-stripe-subscriptions).
+
 ## Get started and get help
 
 - [Create an account](https://dash.mailchannels.com)
