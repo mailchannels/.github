@@ -43,6 +43,7 @@ These candidates are available for evaluation from source. They are not yet rele
 | Node-RED | Send or validate transactional email from a flow, with dry-run enabled by default | [Node-RED node](https://github.com/mailchannels/node-red-mailchannels) |
 | Directus | Sandboxed Flow operation for the Email API send payload | [Directus extension](https://github.com/mailchannels/directus-extension-mailchannels) |
 | Auth0 | Custom email-provider Action; hosted tenant validation and Marketplace eligibility pending | [Auth0 development preview](https://github.com/mailchannels/mailchannels-auth0-email-provider) |
+| Ghost | Signed editorial notifications for an internal team; company deployment and live validation pending | [Ghost development preview](https://github.com/mailchannels/ghost-mailchannels) |
 | LangChain | Email tool with an application-controlled sender and recipient allowlist | [LangChain integration](https://github.com/mailchannels/langchain-mailchannels) |
 
 ## Get started and get help
