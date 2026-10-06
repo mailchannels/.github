@@ -10,7 +10,7 @@ Build transactional email into your server-side applications with the [MailChann
 | Python | [`mailchannels` on PyPI](https://pypi.org/project/mailchannels/) | [Python quickstart](https://docs.mailchannels.com/email-api/python/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-py) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-py) |
 | PHP | [`mailchannels/mailchannels-php` on Packagist](https://packagist.org/packages/mailchannels/mailchannels-php) | [PHP quickstart](https://docs.mailchannels.com/email-api/php/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-php) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-php) |
 
-The canonical SDK source repositories are hosted on Bitbucket; the GitHub mirrors sync daily for discovery and browsing. Use the canonical repositories for development and contribution instructions. Install released packages from the registries linked above.
+The JavaScript, Python and PHP source repositories listed above are hosted on Bitbucket; the GitHub mirrors sync daily for discovery and browsing. Use the canonical repositories for development and contribution instructions. Install released packages from the registries linked above.
 
 ## Frameworks and agent skills
 
@@ -31,10 +31,14 @@ Use the [MailChannels integration on Zapier](https://zapier.com/apps/mailchannel
 
 ## Development previews
 
-These candidates are available for evaluation from source. They are not yet released to npm, PyPI or RubyGems, or published in their target integration catalogs. Check each repository's validation and release requirements before use.
+These candidates are available for evaluation from source. They are not yet released to their package registries or published in their target integration catalogs. Check each repository's validation and release requirements before use.
 
 | Integration | Purpose | Source and issue tracking |
 | --- | --- | --- |
+| Java / Kotlin | All 42 Email API operations; Maven Central publication pending | [Java SDK](https://github.com/mailchannels/mailchannels-email-api-sdk-java) |
+| .NET | All 42 Email API operations; NuGet publication pending | [.NET SDK](https://github.com/mailchannels/mailchannels-email-api-sdk-dotnet) |
+| Rust | All 42 Email API operations; crates.io publication pending | [Rust SDK](https://github.com/mailchannels/mailchannels-email-api-sdk-rust) |
+| Server-side Dart | All 42 Email API operations; pub.dev publication pending | [Dart SDK](https://github.com/mailchannels/mailchannels-email-api-sdk-dart) |
 | Ruby | Direct Email API sending and dry-run validation; not an Action Mailer backend | [Ruby client](https://github.com/mailchannels/mailchannels-email-api-ruby) |
 | Node-RED | Send or validate transactional email from a flow, with dry-run enabled by default | [Node-RED node](https://github.com/mailchannels/node-red-mailchannels) |
 | Directus | Sandboxed Flow operation for the Email API send payload | [Directus extension](https://github.com/mailchannels/directus-extension-mailchannels) |
