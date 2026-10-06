@@ -29,6 +29,17 @@ Use the [MailChannels integration on Zapier](https://zapier.com/apps/mailchannel
 
 [MailChannels Email API for WHMCS](https://docs.mailchannels.com/plugins/whmcs/overview) lets hosting providers sell Email API sub-accounts from their WHMCS stores. WHMCS handles billing while the plugin provisions sub-accounts, send limits, and API or SMTP credentials. See the [installation guide](https://docs.mailchannels.com/plugins/whmcs/installation) and [official source](https://bitbucket.org/mailchannels/mailchannels-email-api-whmcs-plugin).
 
+## Development previews
+
+These candidates are available for evaluation from source. They are not yet released to npm, PyPI or RubyGems, or published in their target integration catalogs. Check each repository's validation and release requirements before use.
+
+| Integration | Purpose | Source and issue tracking |
+| --- | --- | --- |
+| Ruby | Direct Email API sending and dry-run validation; not an Action Mailer backend | [Ruby client](https://github.com/mailchannels/mailchannels-email-api-ruby) |
+| Node-RED | Send or validate transactional email from a flow, with dry-run enabled by default | [Node-RED node](https://github.com/mailchannels/node-red-mailchannels) |
+| Directus | Sandboxed Flow operation for the Email API send payload | [Directus extension](https://github.com/mailchannels/directus-extension-mailchannels) |
+| LangChain | Email tool with an application-controlled sender and recipient allowlist | [LangChain integration](https://github.com/mailchannels/langchain-mailchannels) |
+
 ## Get started and get help
 
 - [Create an account](https://dash.mailchannels.com)
