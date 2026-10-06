@@ -6,11 +6,11 @@ Build transactional email into your server-side applications with the [MailChann
 
 | Language | Install | Quickstart | Source |
 | --- | --- | --- | --- |
-| JavaScript / TypeScript | [`mailchannels-sdk` on npm](https://www.npmjs.com/package/mailchannels-sdk) | [Node.js quickstart](https://docs.mailchannels.com/email-api/javascript/quickstart) | [Official repository](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-js) |
-| Python | [`mailchannels` on PyPI](https://pypi.org/project/mailchannels/) | [Python quickstart](https://docs.mailchannels.com/email-api/python/quickstart) | [Official repository](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-py) |
-| PHP | [`mailchannels/mailchannels-php` on Packagist](https://packagist.org/packages/mailchannels/mailchannels-php) | [PHP quickstart](https://docs.mailchannels.com/email-api/php/quickstart) | [Official repository](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-php) |
+| JavaScript / TypeScript | [`mailchannels-sdk` on npm](https://www.npmjs.com/package/mailchannels-sdk) | [Node.js quickstart](https://docs.mailchannels.com/email-api/javascript/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-js) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-js) |
+| Python | [`mailchannels` on PyPI](https://pypi.org/project/mailchannels/) | [Python quickstart](https://docs.mailchannels.com/email-api/python/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-py) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-py) |
+| PHP | [`mailchannels/mailchannels-php` on Packagist](https://packagist.org/packages/mailchannels/mailchannels-php) | [PHP quickstart](https://docs.mailchannels.com/email-api/php/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-php) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-php) |
 
-The official SDK source repositories are hosted on Bitbucket. Use their README files for development and contribution instructions.
+The canonical SDK source repositories are hosted on Bitbucket; the GitHub mirrors sync daily for discovery and browsing. Use the canonical repositories for development and contribution instructions. Install released packages from the registries linked above.
 
 ## Frameworks and agent skills
 
