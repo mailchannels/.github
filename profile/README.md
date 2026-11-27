@@ -6,7 +6,7 @@ Build transactional email into your server-side applications with the [MailChann
 
 | Language | Install | Quickstart | Source |
 | --- | --- | --- | --- |
-| JavaScript / TypeScript | [`mailchannels-sdk` on npm](https://www.npmjs.com/package/mailchannels-sdk) | [Node.js quickstart](https://docs.mailchannels.com/email-api/javascript/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-js) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-js) |
+| JavaScript / TypeScript | [`@mailchannels/sdk` on npm](https://www.npmjs.com/package/@mailchannels/sdk) | [Node.js quickstart](https://docs.mailchannels.com/email-api/javascript/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-js) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-js) |
 | Python | [`mailchannels` on PyPI](https://pypi.org/project/mailchannels/) | [Python quickstart](https://docs.mailchannels.com/email-api/python/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-py) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-py) |
 | PHP | [`mailchannels/mailchannels-php` on Packagist](https://packagist.org/packages/mailchannels/mailchannels-php) | [PHP quickstart](https://docs.mailchannels.com/email-api/php/quickstart) | [Bitbucket](https://bitbucket.org/mailchannels/mailchannels-email-api-sdk-php) · [GitHub mirror](https://github.com/mailchannels/mailchannels-email-api-sdk-php) |
 
